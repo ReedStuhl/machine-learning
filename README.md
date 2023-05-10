@@ -1,2 +1,9 @@
 # machine-learning
-keras - sklearn - numpy - pandas - nn - rnn - random forest
+  - keras 
+  - LSTM
+  - sklearn 
+  - numpy 
+  - pandas 
+  - nn 
+  - rnn 
+  - random forest
